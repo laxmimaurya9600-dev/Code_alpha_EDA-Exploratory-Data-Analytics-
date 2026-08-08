@@ -24,4 +24,4 @@ This project was completed as part of the CodeAlpha Data Analytics Internship.
 
 ## Files
 - Employee_Attrition_Analysis.ipynb
-- employee_attrition.xlsx
+- employee_attrition.csv
